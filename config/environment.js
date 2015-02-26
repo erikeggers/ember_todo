@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-todo',
+    modulePrefix: 'ember_todo',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
